@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/mattt/CargoBay'
   s.social_media_url = 'https://twitter.com/mattt'
   s.authors  = { 'Mattt Thompson' => 'm@mattt.me' }
-  s.source   = { :git => 'https://github.com/mattt/CargoBay.git', :tag => s.version }
+  s.source   = { :git => 'https://github.com/alanchen/CargoBay.git', :tag => s.version }
   s.source_files = 'CargoBay'
   s.requires_arc = true
 
